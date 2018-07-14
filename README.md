@@ -1,1 +1,1 @@
-# ruby-fib-practice
+Practicing the fibonacci sequence in Ruby following The Odin Project.
